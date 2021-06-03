@@ -1,4 +1,4 @@
-#Recommended Tech Books
+# Recommended Tech Books
 ## Craftmanship
 [Software Craftsman, The: Professionalism, Pragmatism, Pride](https://learning.oreilly.com/library/view/the-software-craftsman/9780134052625)  
 [Accelerate](https://learning.oreilly.com/library/view/accelerate/9781457191435)  
