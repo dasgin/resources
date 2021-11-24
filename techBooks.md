@@ -45,6 +45,7 @@
 [Designing Data Intensice Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063)  
 [The Art of Scalability](https://learning.oreilly.com/library/view/the-art-of/9780134031408/)  
 [Building Evolutionary Architectures](https://learning.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/)
+[Fundamentals of Software Architecute](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447)
 ## Platform
 [Docker In Action](https://learning.oreilly.com/library/view/docker-in-action)  
 [Kubernetes In Action](https://learning.oreilly.com/library/view/kubernetes-in-action/9781617293726)  
