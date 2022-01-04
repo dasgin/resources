@@ -1,6 +1,6 @@
 # Recommended Tech Books
 ## Productivity
-[Deep Work](https://www.amazon.com.tr/Deep-Work-Focused-Success-Distracted/dp/0349411905/)/[Pür Dikkat](https://www.trendyol.com/metropolis-yayinlari/purdikkat-p-70835637)  
+[Deep Work](https://www.amazon.com.tr/Deep-Work-Focused-Success-Distracted/dp/0349411905/) / [Pürdikkat](https://www.trendyol.com/metropolis-yayinlari/purdikkat-p-70835637)  
 ## Craftmanship
 [Software Craftsman, The: Professionalism, Pragmatism, Pride](https://learning.oreilly.com/library/view/the-software-craftsman/9780134052625)  
 [Accelerate](https://learning.oreilly.com/library/view/accelerate/9781457191435)  
