@@ -44,7 +44,7 @@
 [Implementing Domain-Driven Design](https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/)  
 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://learning.oreilly.com/library/view/domain-driven-design-tackling/0321125215/)
 ## Arch.
-[Designing Data Intensice Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063)  
+[Designing Data Intensive Applications](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063)  
 [The Art of Scalability](https://learning.oreilly.com/library/view/the-art-of/9780134031408/)  
 [Building Evolutionary Architectures](https://learning.oreilly.com/library/view/building-evolutionary-architectures/9781491986356/)  
 [Fundamentals of Software Architecture](https://learning.oreilly.com/library/view/fundamentals-of-software/9781492043447)
