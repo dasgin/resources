@@ -42,7 +42,7 @@
 [Enterprise Integration Patterns](https://www.oreilly.com/library/view/enterprise-integration-patterns/0321200683/)  
 [Patterns of Enterprise Application Architecture](https://learning.oreilly.com/library/view/patterns-of-enterprise/0321127420/)
 ## DDD
-[Learning Domain-Driven Design](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)
+[Learning Domain-Driven Design](https://learning.oreilly.com/library/view/learning-domain-driven-design/9781098100124/)  
 [Domain-Driven Design Distilled](https://learning.oreilly.com/library/view/domain-driven-design-distilled/9780134434964/)  
 [Patterns, Principles, and Practices of Domain-Driven Design](https://learning.oreilly.com/library/view/patterns-principles-and/9781118714706/)  
 [Implementing Domain-Driven Design](https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/)  
