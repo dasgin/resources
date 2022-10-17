@@ -3,7 +3,7 @@
 [Drive](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) / [Drive](https://www.trendyol.com/mediacat-kitaplari/drive-daniel-h-pink-9786055755614-p-2301097)  
 [Deep Work](https://www.amazon.com.tr/Deep-Work-Focused-Success-Distracted/dp/0349411905/) / [Pürdikkat](https://www.trendyol.com/metropolis-yayinlari/purdikkat-p-70835637)  
 ## Career
-[The Manager's Path](https://learning.oreilly.com/library/view/the-managers-path/9781491973882)  
+[The Manager's Path](https://learning.oreilly.com/library/view/the-managers-path/9781491973882)[(Summary)](https://danlebrero.com/2020/07/22/the-managers-path-book-summary/)  
 ## Craftmanship
 [Software Craftsman, The: Professionalism, Pragmatism, Pride](https://learning.oreilly.com/library/view/the-software-craftsman/9780134052625)  
 [Accelerate](https://learning.oreilly.com/library/view/accelerate/9781457191435)  
