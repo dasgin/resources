@@ -33,7 +33,7 @@
 [Refactoring to Patterns](https://learning.oreilly.com/library/view/refactoring-to-patterns/0321213351/)  
 [Working Effectively with Legacy Code](https://learning.oreilly.com/library/view/working-effectively-with/0131177052/)
 ## Microservices
-[Building Microservices](https://www.oreilly.com/library/view/building-microservices/9781491950340/)  
+[Building Microservices 2nd.](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018)  
 [Microservice Patterns and Best Practices](https://www.oreilly.com/library/view/microservice-patterns-and/9781788474030/)  
 [Microservices Patterns](https://learning.oreilly.com/library/view/microservices-patterns/9781617294549/)  
 [Release It!](https://learning.oreilly.com/library/view/release-it-2nd/9781680504552/)  
