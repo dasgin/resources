@@ -4,6 +4,7 @@
 [Deep Work](https://www.amazon.com.tr/Deep-Work-Focused-Success-Distracted/dp/0349411905/) / [Pürdikkat](https://www.trendyol.com/metropolis-yayinlari/purdikkat-p-70835637)  
 ## Career
 [The Manager's Path](https://learning.oreilly.com/library/view/the-managers-path/9781491973882) [(Summary)](https://danlebrero.com/2020/07/22/the-managers-path-book-summary/)  
+[Multipliers](https://www.amazon.com/Multipliers-Best-Leaders-Everyone-Smarter/dp/0061964395)  
 ## Craftmanship
 [Software Craftsman, The: Professionalism, Pragmatism, Pride](https://learning.oreilly.com/library/view/the-software-craftsman/9780134052625)  
 [Accelerate](https://learning.oreilly.com/library/view/accelerate/9781457191435)  
